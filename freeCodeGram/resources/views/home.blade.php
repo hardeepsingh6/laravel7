@@ -14,12 +14,24 @@
                 <div class="pr-5"><strong>212</strong> following</div>
             </div>
 
-        
-        
-        
+            <div class="pt-4 font-weight-bold">freecodecamp.org</div>
+            <div>We rae gloablcommunity ofmillions of perople learning to code together, we are open 24 x 7 whole year   </div>
+            <div><a href="#">www.hrdpsingh.co.uk</a></div>       
         </div>
     </div>
 
+    
+    <div class="row pt-5">
+        <div class="col-4">
+            <img src="https://www.cypherarts.com/wp-content/uploads/2020/01/gettyimages-858489898.jpg" class= "w-100" alt="">        
+        </div>
+        <div class="col-4">
+            <img src="https://www.cypherarts.com/wp-content/uploads/2020/01/Facetune-Best-Editing-Apps-Instagram-Selfies.png" class= "w-100" alt="">
+        </div>
+        <div class="col-4">
+            <img src="https://www.cypherarts.com/wp-content/uploads/2020/01/876-scaled-1-768x512.jpg" class= "w-100" alt="">
+        </div>
+    </div>
 
 
 
