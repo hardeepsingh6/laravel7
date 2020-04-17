@@ -7,7 +7,7 @@
             <img src="https://hrdpsingh.co.uk/img/logo.png" style="height:250px; background-color:lightwhite; border:1px solid grey" class="rounded-circle">    
         </div>
         <div class="col-9 p-5">
-            <div> <h1>freecode camp</h1> </div>
+            <div><h1>{{$user->username }}</h1> </div>
             <div class="d-flex">
                 <div class="pr-5"><strong>153</strong> posts</div>
                 <div class="pr-5"><strong>23k</strong> followers</div>
